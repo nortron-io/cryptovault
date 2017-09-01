@@ -1,0 +1,24 @@
+{
+  "name": "cryptovault",
+  "version": "1.0.0",
+  "description": "A private cryptocurrency wallet &amp; management system. Accept virtual currencies as payment, track investments, route funds and more.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bitcoinjs-lib": "^3.0.2",
+    "bitcoinjs-lib": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nortron-io/cryptovault.git"
+  },
+  "author": "nortron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nortron-io/cryptovault/issues"
+  },
+  "homepage": "https://github.com/nortron-io/cryptovault#readme"
+}
